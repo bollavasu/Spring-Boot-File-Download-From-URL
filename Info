@@ -1,6 +1,7 @@
 
 https://www.codejava.net/java-se/networking/use-httpurlconnection-to-download-file-from-an-http-url
 
+HttpURLConnection is used for this example
 
 1)mvn clean install
 
