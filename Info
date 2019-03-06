@@ -1,0 +1,10 @@
+
+https://www.codejava.net/java-se/networking/use-httpurlconnection-to-download-file-from-an-http-url
+
+
+1)mvn clean install
+
+2)mvn spring-boot:run
+
+3)http://localhost:8080/
+
